@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://44.192.81.238:8888/mylandmarktech/repository/ebay-java-app-releases/</url>
+	      <name>Yubinax Solutions Releases Nexus Repository</name>
+	      <url> http://44.210.242.182:1729/yubinax/repository/paynow-hub-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/ebay-java-app-snapshot/</url>
+	      <name>Yubinax Solutions Snapshot Nexus Repository </name>
+	      <url>http://44.210.242.182:1729/yubinax/repository/paynow-hub/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
