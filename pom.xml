@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>eBay Releases Nexus Repository</name>
+	      <name>eBay Nieria Releases Nexus Repository</name>
 	      <url>http://172.31.3.9:8081/repository/ebay-app-project-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>eBay Snapshot Nexus Repository </name>
+	      <name>eBay Nigeria Snapshot Nexus Repository </name>
 	      <url>http://172.31.3.9:8081/repository/ebay-app-project-snapshot/</url>
 	    </snapshotRepository>
 	    
