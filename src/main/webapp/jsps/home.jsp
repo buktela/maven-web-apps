@@ -16,6 +16,7 @@
 	We offer interview preparations and job assitance.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
+	<h2> Knowledge is Power, learning is the key</h2>
 <div style="text-align: center;">
 	<span>
 		<img src="images/log4.png" alt="" width="200">
